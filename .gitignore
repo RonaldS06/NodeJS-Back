@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+.env.test
+mailer.ts
+.DS_Store
